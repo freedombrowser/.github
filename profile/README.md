@@ -7,7 +7,6 @@
 <h1 align="center">Freedombrowser Repositories</h1>
 <p align="center">
 <a href="https://discord.gg/dt9MeRegpF"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="about:blank"><img height="30px" src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"><img></a>
 <a href="https://freedombrowser.org"><img height="30px" src="https://img.shields.io/badge/Website-7A7D7D?style=for-the-badge&logoColor=white"><img></a>
 </p>
 
