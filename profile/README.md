@@ -20,9 +20,6 @@ Our main domain is freedombrowser.org but we have multiple other domains; if one
 
 ### Active
 - Main website: [freedombrowser.org](https://freedombrowser.org)
-- Secondary website: [freedombrowser.tk](https://freedombrowser.tk)
-- Mostly unlocked website: [freedombrowser.uk.to](https://freedombrowser.uk.to)
-- Disguised website: [classroom.google.uk.to](https://classroom.google.uk.to)
 - Development site: [beta.freedombrowser.stonklat.com](https://stonklat.com/freedombrowser)
 
 </details>
@@ -30,7 +27,4 @@ Our main domain is freedombrowser.org but we have multiple other domains; if one
 ### Our services
 - [Games hosting](https://freedombrowser.org/allgames)
 - [Site unblocker](https://freedombrowser.org/browser) (Using Titanium Network's proxy software)
-- [Search engine](https://freedombrowser.org/search)
 - [Minecraft](https://freedombrowser.org/minecraft) (An Anarchy Minecraft server fully playable in your browser thanks to the magic of eaglercraft)
-- [Chat](https://freedombrowser.org/chat)
-- [GCSE papers](https://freedombrowser.org/gcse)
